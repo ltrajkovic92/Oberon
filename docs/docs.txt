@@ -1,6 +1,9 @@
   # Home page
   `Route /`
 
+  # Login
+  `Route /auth/login`git
+
   # About us
   `Route /about-us`
 
